@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://thoncs.github.io/new-things.html",
-            "url": "https://thoncs.github.io/new-things.html",
+            "id": "https://thoncs.github.io/new-things/",
+            "url": "https://thoncs.github.io/new-things/",
             "title": "New things",
             "summary": "MarfLe nerfMarque",
             "content_html": "\n  <ul>\n    <li>Marf</li><li>Le nerf</li><li>Marque</li>\n  </ul>",
@@ -24,8 +24,8 @@
             "date_modified": "2022-11-09T15:51:49-06:00"
         },
         {
-            "id": "https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians.html",
-            "url": "https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians.html",
+            "id": "https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians/",
+            "url": "https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians/",
             "title": "Splashing Bohemia for the first time as her new guardians ",
             "summary": "&nbsp;&nbsp;",
             "content_html": "<p>&nbsp;<a href=\"https://thoncs.github.io/media/posts/7/IMG_4531.jpg\"><img loading=\"lazy\" src=\"https://thoncs.github.io/media/posts/7/IMG_4531.jpg\" alt=\"\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.jpg 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.jpg 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.jpg 768w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-lg.jpg 1024w\"></a>&nbsp;</p>\n",
@@ -39,8 +39,8 @@
             "date_modified": "2022-11-09T18:48:23-06:00"
         },
         {
-            "id": "https://thoncs.github.io/irwin-28.html",
-            "url": "https://thoncs.github.io/irwin-28.html",
+            "id": "https://thoncs.github.io/irwin-28/",
+            "url": "https://thoncs.github.io/irwin-28/",
             "title": "Irwin 28",
             "content_html": "\n\n",
             "author": {
@@ -52,8 +52,8 @@
             "date_modified": "2022-11-09T18:48:23-06:00"
         },
         {
-            "id": "https://thoncs.github.io/irwin-325-cc.html",
-            "url": "https://thoncs.github.io/irwin-325-cc.html",
+            "id": "https://thoncs.github.io/irwin-325-cc/",
+            "url": "https://thoncs.github.io/irwin-325-cc/",
             "title": "Irwin 32.5 CC",
             "summary": "Irwin 32.5 Center Cockpit",
             "content_html": "<h3>Irwin 32.5 Center Cockpit</h3>\n\n\n",
