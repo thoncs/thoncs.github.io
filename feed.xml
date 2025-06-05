@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>QuasiGenius</title>
+    <link href="https://thoncs.github.io/feed.xml" rel="self" />
+    <link href="https://thoncs.github.io" />
+    <updated>2022-11-09T18:48:23-06:00</updated>
+    <author>
+        <name>c.s.</name>
+    </author>
+    <id>https://thoncs.github.io</id>
+
+    <entry>
+        <title>New things</title>
+        <author>
+            <name>c.s.</name>
+        </author>
+        <link href="https://thoncs.github.io/new-things.html"/>
+        <id>https://thoncs.github.io/new-things.html</id>
+
+        <updated>2022-11-09T15:51:49-06:00</updated>
+            <summary>
+                <![CDATA[
+                    MarfLe nerfMarque
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li>Marf</li><li>Le nerf</li><li>Marque</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Splashing Bohemia for the first time as her new guardians </title>
+        <author>
+            <name>c.s.</name>
+        </author>
+        <link href="https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians.html"/>
+        <id>https://thoncs.github.io/splashing-bohemia-for-the-first-time-as-her-new-guardians.html</id>
+        <media:content url="https://thoncs.github.io/media/posts/7/IMG_4410.jpg" medium="image" />
+
+        <updated>2015-06-12T03:17:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thoncs.github.io/media/posts/7/IMG_4410.jpg" alt="" />
+                    &nbsp;&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thoncs.github.io/media/posts/7/IMG_4410.jpg" class="type:primaryImage" alt="" /></p>
+                <p>&nbsp;<a href="https://thoncs.github.io/media/posts/7/IMG_4531.jpg"><img loading="lazy" src="https://thoncs.github.io/media/posts/7/IMG_4531.jpg" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.jpg 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.jpg 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.jpg 768w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-lg.jpg 1024w"></a>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Irwin 28</title>
+        <author>
+            <name>c.s.</name>
+        </author>
+        <link href="https://thoncs.github.io/irwin-28.html"/>
+        <id>https://thoncs.github.io/irwin-28.html</id>
+
+        <updated>2015-04-21T15:43:57-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Irwin 32.5 CC</title>
+        <author>
+            <name>c.s.</name>
+        </author>
+        <link href="https://thoncs.github.io/irwin-325-cc.html"/>
+        <id>https://thoncs.github.io/irwin-325-cc.html</id>
+
+        <updated>2015-04-20T21:41:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Irwin 32.5 Center Cockpit
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Irwin 32.5 Center Cockpit</h3>
+
+
+
+            ]]>
+        </content>
+    </entry>
+</feed>

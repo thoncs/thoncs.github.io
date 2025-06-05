@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thoncs.github.io/sitemap.xml
