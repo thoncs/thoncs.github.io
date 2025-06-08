@@ -74,7 +74,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thoncs.github.io/media/posts/7/IMG_4410.jpg" class="type:primaryImage" alt="" /></p>
-                <p>&nbsp;<a href="https://thoncs.github.io/media/posts/7/IMG_4531.jpg"><img loading="lazy" src="https://thoncs.github.io/media/posts/7/IMG_4531.jpg" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.jpg 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.jpg 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.jpg 768w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-lg.jpg 1024w"></a>&nbsp;</p>
+                <p>&nbsp;<a href="https://thoncs.github.io/media/posts/7/IMG_4531.jpg"><img loading="lazy" src="https://thoncs.github.io/media/posts/7/IMG_4531.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.jpg 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.jpg 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.jpg 768w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-lg.jpg 1024w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xl.jpg 1360w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-2xl.jpg 1600w"></a>&nbsp;</p>
 
             ]]>
         </content>
