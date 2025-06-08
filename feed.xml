@@ -74,7 +74,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thoncs.github.io/media/posts/7/IMG_4410.jpg" class="type:primaryImage" alt="" /></p>
-                <p>&nbsp;<a href="https://thoncs.github.io/media/posts/7/IMG_4531.jpg"><img loading="lazy" src="https://thoncs.github.io/media/posts/7/IMG_4531.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.jpg 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.jpg 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.jpg 768w"></a>&nbsp;</p>
+                <p>&nbsp;<a href="https://thoncs.github.io/media/posts/7/IMG_4531.jpg"><img loading="lazy" src="https://thoncs.github.io/media/posts/7/IMG_4531.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thoncs.github.io/media/posts/7/responsive/IMG_4531-xs.webp 300w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-sm.webp 480w ,https://thoncs.github.io/media/posts/7/responsive/IMG_4531-md.webp 768w"></a>&nbsp;</p>
 
             ]]>
         </content>
